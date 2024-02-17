@@ -1,6 +1,7 @@
+![logo]
 <h1 align="center">Hi 👋, I'm Devansh Kumar Singh</h1>
 <h3 align="center">Welcome to my GitHub profile! I specialize in Data Science and Generative AI, with the goal of driving innovation and facilitating business decision-making. My profile showcases a variety of projects related to Machine Learning, Data Analysis, Deep Learning, Generative AI, and Open-Source contributions. I am constantly seeking new opportunities to learn and grow as a data scientist and prompt engineer. Thank you for visiting my profile. Please feel free to contact me if you have any questions or would like to discuss potential collaborations. Let's work together to uncover hidden insights and drive innovation through data, generative AI, and prompt engineering!</h3>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="450" src="https://github.com/DEVANSH-KUMAR-SINGH/DEVANSH-KUMAR-SINGH/assets/141431788/86b5a8c6-293c-4b7e-9c6e-05f47a009374">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-kumar-singh&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-kumar-singh" /> </p>
 
 - 🌱 I’m currently learning **Data Science and Generative AI**
